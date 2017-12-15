@@ -1,2 +1,3 @@
-# aws-portfolio
-This is my AWS portfolio utilizing React and serverless technologies. 
+# Joyce Ling's aws-portfolio
+
+This is my portfolio utilizing ReactJS and AWS.
