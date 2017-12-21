@@ -32,5 +32,5 @@ def lambda_handler(event, context):
     except:
         topic.publish(Subject="Portfolio Deploy Failed", Message="The portfolio was not deployed successfully")
         raise
-    
+
     return 'Hello from Lambda'
